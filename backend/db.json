@@ -1,0 +1,22 @@
+{
+  "pensamentos" : [
+    {
+      "id": 1,
+      "conteudo": "Olá esses sãos os pensamentos",
+      "autoria": "Ana",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Lorem ipsum dor sit amet",
+      "autoria": "Ana",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é divertido",
+      "autoria": "Ana",
+      "modelo": "modelo3"
+    }
+  ]
+}
