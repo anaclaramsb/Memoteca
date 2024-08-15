@@ -4,60 +4,70 @@
       "id": 1,
       "conteudo": "Olá esses sãos os pensamentos",
       "autoria": "Ana",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Lorem ipsum dor sit amet",
       "autoria": "Ana",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Angular é divertido",
       "autoria": "Ana",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Novo pensamento de teste",
       "autoria": "Dev Angular",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! Editei o modelo!!!!!! ",
       "autoria": "Ana",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Mais um pensamento!",
       "autoria": "Pessoa misteriosa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "Tem que criar vários para a tarefa",
       "autoria": "Fantasma",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 8
     },
     {
       "conteudo": "Uhuuull ",
       "autoria": "Ana",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 9
     },
     {
       "conteudo": "Vamos correr de bugs!",
       "autoria": "Yoda",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 10
     },
     {
       "conteudo": "Kingdom Hearts é o melhor jogo!",
       "autoria": "Sora",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 11
     }
   ]
